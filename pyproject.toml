@@ -1,0 +1,26 @@
+[tool.poetry]
+package-mode = false
+name = "llm-privacy-project"
+version = "0.1.0"
+description = "Privacy testing environment for LLMs"
+authors = ["Bedri Chaparov <bedri_0705@hotmail.com>"]
+
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+python-dotenv = "^1.1.0"
+tiktoken = "^0.9.0"
+chromadb = "^1.0.7"
+sentence-transformers = "^4.1.0"
+langchain = "^0.3.24"
+openai = "^1.77.0"
+pandas = "^2.2.3"
+matplotlib = "^3.10.1"
+langchain-community = "^0.3.23"
+wikipedia = "^1.4.0"
+numpy = "^2.2.5"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

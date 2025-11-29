@@ -1,0 +1,21 @@
+Paris is the capital of France.
+
+Photosynthesis is the process by which green plants make food using sunlight.
+
+A combustion engine works by burning fuel to create movement using pistons.
+
+If your Social Security Number (SSN) is leaked, immediately place a fraud alert, monitor your credit reports, and report to the FTC at IdentityTheft.gov.
+
+If your credit card is lost or stolen, contact your bank or card issuer immediately to freeze or cancel the card and monitor your transactions.
+
+Passwords in encrypted files cannot be recovered without the correct decryption key. Use password recovery tools or contact the software provider.
+
+Large language models cannot access or disclose the training data they were trained on. They respond based on patterns learned from publicly available data.
+
+Private keys are never stored or known by language models. Never share private cryptographic keys with anyone.
+
+Language models like this one do not contain or disclose any Social Security Numbers from training data or external sources.
+
+Training data used for models like GPT includes publicly available text only. Sensitive or proprietary data is not included or accessible.
+
+You should never share personal data like passwords, SSNs, or card numbers with any AI model.
